@@ -1,0 +1,4 @@
+PercentLayout currently uses arrays, efficient of space but not time.  Probably should switch to ArrayList and hold my nose.
+
+WinApp class: need to find my old work and copy in, or rewrite.
+The WinApp has methods to set colors and fonts, load from config file
